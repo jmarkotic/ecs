@@ -17,10 +17,6 @@ spec:
               "server": [{
                   "hostname": "192.168.5.10",
                   "command": "SERVER"
-                },
-                {
-                  "hostname": "1.pool.ntp.org",
-                  "command": "SERVER"
                 }
               ]
             }
